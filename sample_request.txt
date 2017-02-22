@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+HOST: HOST_IP_DEFINE
+
+
